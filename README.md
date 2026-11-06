@@ -4,15 +4,15 @@ Projecte web educatiu en català sobre **quatre sèries de televisió**, desenvo
 
 ## Membres de l'equip i repartiment de tasques
 
-El repartiment següent es basa en les **issues assignades al repositori**. Es mostren els usuaris de GitHub perquè els noms i cognoms complets no estan confirmats.
+El repartiment següent es basa en les **issues assignades al repositori**. S'hi indiquen els noms dels membres i els seus usuaris de GitHub.
 
 | Membre (GitHub) | Tasques assignades |
 | --- | --- |
-| [@santimartinezcordoba-prog](https://github.com/santimartinezcordoba-prog) | Pàgines HTML de les sèries 1 i 2 ([#1](https://github.com/santimartinezcordoba-prog/intermodular03equip4/issues/1), [#2](https://github.com/santimartinezcordoba-prog/intermodular03equip4/issues/2)) |
-| [@josemidev1-code](https://github.com/josemidev1-code) | Pàgines HTML de les sèries 3 i 4 ([#7](https://github.com/santimartinezcordoba-prog/intermodular03equip4/issues/7), [#8](https://github.com/santimartinezcordoba-prog/intermodular03equip4/issues/8)) |
-| [@tronkstudios](https://github.com/tronkstudios) | Estils CSS i documentació README ([#9](https://github.com/santimartinezcordoba-prog/intermodular03equip4/issues/9), [#10](https://github.com/santimartinezcordoba-prog/intermodular03equip4/issues/10)) |
+| **Santiago Martinez Cordoba** ([@santimartinezcordoba-prog](https://github.com/santimartinezcordoba-prog)) | Pàgines HTML de les sèries 1 i 2 ([#1](https://github.com/santimartinezcordoba-prog/intermodular03equip4/issues/1), [#2](https://github.com/santimartinezcordoba-prog/intermodular03equip4/issues/2)) |
+| **Josemiguel Miralles Gandia** ([@josemidev1-code](https://github.com/josemidev1-code)) | Pàgines HTML de les sèries 3 i 4 ([#7](https://github.com/santimartinezcordoba-prog/intermodular03equip4/issues/7), [#8](https://github.com/santimartinezcordoba-prog/intermodular03equip4/issues/8)) |
+| **Jose Ruiz Casal** ([@tronkstudios](https://github.com/tronkstudios)) | Estils CSS i documentació README ([#9](https://github.com/santimartinezcordoba-prog/intermodular03equip4/issues/9), [#10](https://github.com/santimartinezcordoba-prog/intermodular03equip4/issues/10)) |
 
-> Si el professorat demana els noms i cognoms reals, cal afegir-los a aquesta taula. Les assignacions indiquen les responsabilitats de les issues, no necessàriament qui ha creat cada fitxer.
+> Les assignacions indiquen les responsabilitats de les issues, no necessàriament qui ha creat cada fitxer.
 
 ## Sèries i enllaços IMDb
 
